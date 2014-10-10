@@ -7,8 +7,20 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "FirstViewController.h"
+#import "SecondViewController.h"
 
 @interface ViewController : UIViewController
++(NSString*) stringWithFloat2:(CGFloat) floatA;
+@property (strong, nonatomic) IBOutlet UILabel *titleLabel;
+
+- (IBAction)ButtonPressed:(id)sender;
+
+@property (strong, nonatomic) IBOutlet UITextField *textField;
+
+- (IBAction)buttontest:(id)sender;
+- (IBAction)secondButton:(id)sender;
+
 
 
 @end

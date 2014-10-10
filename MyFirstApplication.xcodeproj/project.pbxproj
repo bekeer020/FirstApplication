@@ -7,6 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3C9CE1FE19E1EBD70018B4C8 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C9CE1FD19E1EBD70018B4C8 /* FirstViewController.m */; };
+		3C9CE20019E200C60018B4C8 /* samsung1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3C9CE1FF19E200C60018B4C8 /* samsung1.jpg */; };
+		3C9CE20219E204270018B4C8 /* whatsapps.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C9CE20119E204270018B4C8 /* whatsapps.png */; };
+		3C9F0B9019E2A99D00A056F6 /* Hondai.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C9F0B8F19E2A99D00A056F6 /* Hondai.m */; };
+		3C9F0B9219E2AFA800A056F6 /* sonata.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3C9F0B9119E2AFA800A056F6 /* sonata.jpg */; };
+		3C9F0B9519E2C8AF00A056F6 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C9F0B9419E2C8AF00A056F6 /* SecondViewController.m */; };
+		3CA61DF119E24642004B7DF6 /* flower1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3CA61DEE19E24642004B7DF6 /* flower1.png */; };
+		3CA61DF219E24642004B7DF6 /* flower2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3CA61DEF19E24642004B7DF6 /* flower2.png */; };
+		3CA61DF319E24642004B7DF6 /* flower3.png in Resources */ = {isa = PBXBuildFile; fileRef = 3CA61DF019E24642004B7DF6 /* flower3.png */; };
+		3CA68C8619DEF9FE008E049E /* iPhone_bg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3CA68C8519DEF9FE008E049E /* iPhone_bg.jpg */; };
+		3CA68C8919DF4740008E049E /* Car.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CA68C8819DF4740008E049E /* Car.m */; };
 		3CFDB98F19DEBB6B0024F4EE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CFDB98E19DEBB6B0024F4EE /* main.m */; };
 		3CFDB99219DEBB6B0024F4EE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CFDB99119DEBB6B0024F4EE /* AppDelegate.m */; };
 		3CFDB99519DEBB6B0024F4EE /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CFDB99419DEBB6B0024F4EE /* ViewController.m */; };
@@ -27,6 +38,21 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3C9CE1FC19E1EBD70018B4C8 /* FirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FirstViewController.h; path = ../FirstViewController.h; sourceTree = "<group>"; };
+		3C9CE1FD19E1EBD70018B4C8 /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FirstViewController.m; path = ../FirstViewController.m; sourceTree = "<group>"; };
+		3C9CE1FF19E200C60018B4C8 /* samsung1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = samsung1.jpg; sourceTree = "<group>"; };
+		3C9CE20119E204270018B4C8 /* whatsapps.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whatsapps.png; sourceTree = "<group>"; };
+		3C9F0B8E19E2A99D00A056F6 /* Hondai.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Hondai.h; sourceTree = "<group>"; };
+		3C9F0B8F19E2A99D00A056F6 /* Hondai.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Hondai.m; sourceTree = "<group>"; };
+		3C9F0B9119E2AFA800A056F6 /* sonata.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sonata.jpg; sourceTree = "<group>"; };
+		3C9F0B9319E2C8AF00A056F6 /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		3C9F0B9419E2C8AF00A056F6 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		3CA61DEE19E24642004B7DF6 /* flower1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flower1.png; sourceTree = "<group>"; };
+		3CA61DEF19E24642004B7DF6 /* flower2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flower2.png; sourceTree = "<group>"; };
+		3CA61DF019E24642004B7DF6 /* flower3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flower3.png; sourceTree = "<group>"; };
+		3CA68C8519DEF9FE008E049E /* iPhone_bg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = iPhone_bg.jpg; sourceTree = "<group>"; };
+		3CA68C8719DF4740008E049E /* Car.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Car.h; sourceTree = "<group>"; };
+		3CA68C8819DF4740008E049E /* Car.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Car.m; sourceTree = "<group>"; };
 		3CFDB98919DEBB6B0024F4EE /* MyFirstApplication.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyFirstApplication.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3CFDB98D19DEBB6B0024F4EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3CFDB98E19DEBB6B0024F4EE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -81,10 +107,18 @@
 		3CFDB98B19DEBB6B0024F4EE /* MyFirstApplication */ = {
 			isa = PBXGroup;
 			children = (
+				3C9F0B9319E2C8AF00A056F6 /* SecondViewController.h */,
+				3C9F0B9419E2C8AF00A056F6 /* SecondViewController.m */,
+				3C9CE1FC19E1EBD70018B4C8 /* FirstViewController.h */,
+				3C9CE1FD19E1EBD70018B4C8 /* FirstViewController.m */,
+				3C9F0B8E19E2A99D00A056F6 /* Hondai.h */,
+				3C9F0B8F19E2A99D00A056F6 /* Hondai.m */,
 				3CFDB99019DEBB6B0024F4EE /* AppDelegate.h */,
 				3CFDB99119DEBB6B0024F4EE /* AppDelegate.m */,
 				3CFDB99319DEBB6B0024F4EE /* ViewController.h */,
 				3CFDB99419DEBB6B0024F4EE /* ViewController.m */,
+				3CA68C8719DF4740008E049E /* Car.h */,
+				3CA68C8819DF4740008E049E /* Car.m */,
 				3CFDB99619DEBB6B0024F4EE /* Main.storyboard */,
 				3CFDB99919DEBB6B0024F4EE /* Images.xcassets */,
 				3CFDB99B19DEBB6B0024F4EE /* LaunchScreen.xib */,
@@ -96,6 +130,13 @@
 		3CFDB98C19DEBB6B0024F4EE /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3C9F0B9119E2AFA800A056F6 /* sonata.jpg */,
+				3C9CE1FF19E200C60018B4C8 /* samsung1.jpg */,
+				3C9CE20119E204270018B4C8 /* whatsapps.png */,
+				3CA68C8519DEF9FE008E049E /* iPhone_bg.jpg */,
+				3CA61DEE19E24642004B7DF6 /* flower1.png */,
+				3CA61DEF19E24642004B7DF6 /* flower2.png */,
+				3CA61DF019E24642004B7DF6 /* flower3.png */,
 				3CFDB98D19DEBB6B0024F4EE /* Info.plist */,
 				3CFDB98E19DEBB6B0024F4EE /* main.m */,
 			);
@@ -202,6 +243,13 @@
 				3CFDB99819DEBB6B0024F4EE /* Main.storyboard in Resources */,
 				3CFDB99D19DEBB6B0024F4EE /* LaunchScreen.xib in Resources */,
 				3CFDB99A19DEBB6B0024F4EE /* Images.xcassets in Resources */,
+				3C9CE20219E204270018B4C8 /* whatsapps.png in Resources */,
+				3CA68C8619DEF9FE008E049E /* iPhone_bg.jpg in Resources */,
+				3C9F0B9219E2AFA800A056F6 /* sonata.jpg in Resources */,
+				3C9CE20019E200C60018B4C8 /* samsung1.jpg in Resources */,
+				3CA61DF319E24642004B7DF6 /* flower3.png in Resources */,
+				3CA61DF119E24642004B7DF6 /* flower1.png in Resources */,
+				3CA61DF219E24642004B7DF6 /* flower2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,9 +267,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3C9F0B9019E2A99D00A056F6 /* Hondai.m in Sources */,
 				3CFDB99519DEBB6B0024F4EE /* ViewController.m in Sources */,
 				3CFDB99219DEBB6B0024F4EE /* AppDelegate.m in Sources */,
+				3C9F0B9519E2C8AF00A056F6 /* SecondViewController.m in Sources */,
+				3CA68C8919DF4740008E049E /* Car.m in Sources */,
 				3CFDB98F19DEBB6B0024F4EE /* main.m in Sources */,
+				3C9CE1FE19E1EBD70018B4C8 /* FirstViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -414,6 +466,7 @@
 				3CFDB9AE19DEBB6B0024F4EE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3CFDB9AF19DEBB6B0024F4EE /* Build configuration list for PBXNativeTarget "MyFirstApplicationTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +475,7 @@
 				3CFDB9B119DEBB6B0024F4EE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
